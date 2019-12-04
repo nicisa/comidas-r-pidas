@@ -1,0 +1,54 @@
+*{
+    margin: auto;
+}
+
+p{
+    margin: 40px;
+    border: 2px solid black;
+    padding: 40px;
+}
+
+h1{
+    background-color:rgb(224, 173, 64);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(0, 128, 58);
+    text-align: center;
+}
+
+#miSuperTitulo{
+    font-size: 50px;
+    padding: 15px;
+}
+
+.hiper{
+    display: inline;
+    padding: 40px;
+    margin-bottom: 5    0px;
+}
+
+.imagenesIntro{
+    width: 280px;
+    display: block;
+    margin-top: 50px ;
+}
+
+a:hover{
+    color: chocolate;
+    font-size: 20px;
+    font-style: italic;
+}
+
+img:hover{
+    width: 520px;
+    height: 320px;
+}
+
+img,iframe{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-top: 20px;
+}
