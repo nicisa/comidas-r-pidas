@@ -52,3 +52,32 @@ img,iframe{
     display: block;
     margin-top: 20px;
 }
+}
+
+.texto{
+    display: block;
+}
+
+.cuadro1{
+    width: 280px;
+    height: 50px;
+    border: 5px solid black;
+    padding: 2%;
+    background-color: rgba(139, 146, 45, 0.5);
+    margin: 5%;    
+
+    position: fixed;
+}
+.cuadro2{
+    width: 180px;
+    height: 50px;
+    border: 5px solid black;
+    padding: 2%;
+    background-color: rgba(45, 106, 146, 0.5);
+    margin: 5%; 
+    
+    position: fixed;
+    bottom: 270px;
+    right: 50px;
+
+}
